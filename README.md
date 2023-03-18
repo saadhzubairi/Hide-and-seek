@@ -1,6 +1,9 @@
 # Hide-and-seek
-A hypercasual game developed using the Unity engine. It features fast-paced gameplay and engaging challenges that are sure to keep players entertained for hours on end. This game is designed to be easy to pick up and play, making it accessible to both seasoned gamers and newbies alike. The stunning graphics and intuitive controls are a testament to our commitment to delivering a seamless user experience.<br>
+##An exploration into the development of a hypercasual game using the Unity engine. 
 
-Built on Unity, this game showcases our expertise in using the latest technology to create captivating gaming experiences. We take pride in our ability to balance user experience with gameplay mechanics, resulting in a game that is both entertaining and visually impressive. With endless replay value, players will find themselves coming back to our game time and time again.
+My goal was to investigate the use of this platform for the creation of fast-paced and engaging gameplay, while also examining the design considerations necessary for creating a seamless user experience.
 
-In summary, our hypercasual game developed in Unity is a testament to our technical prowess and creativity. With its seamless user experience and captivating gameplay, it stands as a shining example of our commitment to creating top-notch games that leave players wanting more.
+I leveraged the capabilities of the Unity engine to develop a game that balanced intuitive controls with eye-pleasing graphics. The game was designed to be easily accessible to players of all skill levels, while still providing a challenging and rewarding experience. To accomplish this, I utilized the latest technology and best practices in game development, ensuring that the final product met my high standards of quality.
+
+I also believe that the Unity engine is a highly effective platform for the creation of hypercasual games. By leveraging its capabilities, I was able to create a game that was both entertaining and visually impressive, while also providing a seamless user experience.
+
