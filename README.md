@@ -1,5 +1,5 @@
 # Hide-and-seek
-##An exploration into the development of a hypercasual game using the Unity engine. 
+## An exploration into the development of a hypercasual game using the Unity engine. 
 
 My goal was to investigate the use of this platform for the creation of fast-paced and engaging gameplay, while also examining the design considerations necessary for creating a seamless user experience.
 
